@@ -1,6 +1,6 @@
 # Computational Poetry Workshop
 
-![Photo](photo.jpg)
+<img src="photo.jpg" width="200" height="200">
 
 This is a workshop in computational poetry for [Medium Design Collective](https://cornellmedium.design/).
 
