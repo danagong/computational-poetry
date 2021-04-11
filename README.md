@@ -1,6 +1,6 @@
 # Computational Poetry Workshop
 
-![photo.jpg](photo)
+![Photo](photo.jpg)
 
 This is a workshop in computational poetry for [Medium Design Collective](https://cornellmedium.design/).
 
